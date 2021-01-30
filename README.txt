@@ -3,7 +3,7 @@ Python Arp Spoofing
 OVERVIEW:
 
 These scripts are pentesting tools.
-Only use these programs with permission.
+Only use these scripts with permission.
 
 You can run these on different os'.
 
